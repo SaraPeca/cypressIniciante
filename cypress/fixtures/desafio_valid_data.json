@@ -1,0 +1,17 @@
+{
+    "name": "Sara Peca",
+    "email": "sara@teste.com",
+    "senha": 123456,
+    "exemploArray": [
+        {
+            "nome": "Eduardo",
+            "idade": 30,
+            "endereco": "Rua xpto"
+        },
+        {
+            "nome": "Maria",
+            "idade": 31,
+            "endereco": "Rua xpto"
+        }
+    ]
+}
